@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TeamOneProject.ImplementAbstractClass2</StartupObject>
+    <StartupObject>TeamOneProject.MathsDelegate</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,12 +51,16 @@
     <Compile Include="ConstructorExample.cs" />
     <Compile Include="ConstructorExample2.cs" />
     <Compile Include="DataTypeExample.cs" />
+    <Compile Include="DelegateExample.cs" />
     <Compile Include="doWileloopExample.cs" />
     <Compile Include="EmployeeDetailsUsingArray.cs" />
     <Compile Include="ForeachExample.cs" />
     <Compile Include="forloopexample.cs" />
+    <Compile Include="IA.cs" />
+    <Compile Include="IEmployee.cs" />
     <Compile Include="ifElseIfExample.cs" />
     <Compile Include="jaggedArrayExample.cs" />
+    <Compile Include="MathsDelegate.cs" />
     <Compile Include="MethodOverriding.cs" />
     <Compile Include="MultilevelInheritance.cs" />
     <Compile Include="NestedIfExample.cs" />
@@ -64,6 +68,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RefrenceTypeExample.cs" />
+    <Compile Include="SealedClassExample.cs" />
     <Compile Include="SingleDimentionalArray.cs" />
     <Compile Include="SingleLevelInheritance.cs" />
     <Compile Include="TableUsingLoop.cs" />
