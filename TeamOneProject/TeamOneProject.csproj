@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TeamOneProject.MathsDelegate</StartupObject>
+    <StartupObject>TeamOneProject.HashTableExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="AbstractClassExample.cs" />
     <Compile Include="ArrayClassExample.cs" />
+    <Compile Include="ArrayListExample.cs" />
     <Compile Include="ConstructorExample.cs" />
     <Compile Include="ConstructorExample2.cs" />
     <Compile Include="DataTypeExample.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="EmployeeDetailsUsingArray.cs" />
     <Compile Include="ForeachExample.cs" />
     <Compile Include="forloopexample.cs" />
+    <Compile Include="HashTableExample.cs" />
     <Compile Include="IA.cs" />
     <Compile Include="IEmployee.cs" />
     <Compile Include="ifElseIfExample.cs" />
