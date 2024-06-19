@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TeamOneProject.HashTableExample</StartupObject>
+    <StartupObject>TeamOneProject.FileExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,7 @@
     <Compile Include="DelegateExample.cs" />
     <Compile Include="doWileloopExample.cs" />
     <Compile Include="EmployeeDetailsUsingArray.cs" />
+    <Compile Include="FileExample.cs" />
     <Compile Include="ForeachExample.cs" />
     <Compile Include="forloopexample.cs" />
     <Compile Include="HashTableExample.cs" />
@@ -74,6 +75,7 @@
     <Compile Include="SingleDimentionalArray.cs" />
     <Compile Include="SingleLevelInheritance.cs" />
     <Compile Include="TableUsingLoop.cs" />
+    <Compile Include="ThreadPriorityExample.cs" />
     <Compile Include="ValueTypeExample.cs" />
     <Compile Include="VotingAppExample.cs" />
     <Compile Include="WhileLoopConstructExample.cs" />
