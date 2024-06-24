@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TeamOneProject.FileExample</StartupObject>
+    <StartupObject>TeamOneProject.TaskExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -70,11 +70,14 @@
     <Compile Include="PolymorphismExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RefAndOutExample.cs" />
+    <Compile Include="RefAndOutExample2.cs" />
     <Compile Include="RefrenceTypeExample.cs" />
     <Compile Include="SealedClassExample.cs" />
     <Compile Include="SingleDimentionalArray.cs" />
     <Compile Include="SingleLevelInheritance.cs" />
     <Compile Include="TableUsingLoop.cs" />
+    <Compile Include="TaskExample.cs" />
     <Compile Include="ThreadPriorityExample.cs" />
     <Compile Include="ValueTypeExample.cs" />
     <Compile Include="VotingAppExample.cs" />
