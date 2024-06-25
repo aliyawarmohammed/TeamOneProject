@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TeamOneProject.TaskExample</StartupObject>
+    <StartupObject>TeamOneProject.TaskWithAsyncAwaitExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -78,6 +78,7 @@
     <Compile Include="SingleLevelInheritance.cs" />
     <Compile Include="TableUsingLoop.cs" />
     <Compile Include="TaskExample.cs" />
+    <Compile Include="TaskWithAsyncAwaitExample.cs" />
     <Compile Include="ThreadPriorityExample.cs" />
     <Compile Include="ValueTypeExample.cs" />
     <Compile Include="VotingAppExample.cs" />
